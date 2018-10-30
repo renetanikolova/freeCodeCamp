@@ -40,7 +40,7 @@ _HashMap_ is not thread safe and unsynchronized => it is faster. Works with sing
 _Map.Entry_ – Entry is an interface inside Map interface; we use it for entrySet() – the set of entries: key + value.
 
 
-_TreeMap_ is a map, which keys are sorted in a natural order. We can create our one Comparator, so that keys would be sorted the way we want them to be. 
+_TreeMap_ is a map, which keys are sorted in a natural order. We can create our own Comparator, so that keys would be sorted the way we want them to be. 
 
 
 
