@@ -47,3 +47,5 @@ _TreeMap_ is a map, which keys are sorted in a natural order. We can create our 
 #### More information 
 - <a href='https://en.wikipedia.org/wiki/Data_structure' target='_blank' rel='nofollow'>Wikipedia - data structures</a>
 - <a href='https://www.geeksforgeeks.org/data-structures/' target='_blank' rel='nofollow'>Data Structures in GeeksforGeeks</a>
+- <a href='https://www.javaworld.com/article/3215112/learn-java/java-101-datastructures-and-algorithms-in-java-part-1.html' target='_blank' rel='nofollow'>Java 101: Datastructures and algorithms in Java</a>
+- <a href='https://www.geeksforgeeks.org/hashset-in-java/' target='_blank' rel='nofollow'>HashSet Info</a>
