@@ -27,7 +27,7 @@ _Map.Entry_ – Entry is an interface inside Map interface; we use it for entryS
 
 
 _TreeSet_ - This is a set but with alphabetical/ numerical order. Again, we do not have duplicates. We have a tree:
-("https://www.cs.wcupa.edu/rkline/assets/img/DS/bst2.png?1264796754")
+(https://www.cs.wcupa.edu/rkline/assets/img/DS/bst2.png?1264796754)
 
 #### More information 
 - <a href='https://en.wikipedia.org/wiki/Data_structure' target='_blank' rel='nofollow'>Wikipedia - data structures</a>
