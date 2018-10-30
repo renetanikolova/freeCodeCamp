@@ -17,14 +17,17 @@ Set is an interface which extends Collection. Unordered collection of objects, w
 
 Set is implemented by HashSet, TreeSet, LinkedSet.
 
-HashSet - Underlying data structure is HashTable. 
-HashTable is data structure, which is based on arrays. Offers fast insertion and searching. Key values are assigned to elements in a Hash Table using a Hash function. A hash function helps calculate the best index an item should go in. 
+_HashSet_ - Underlying data structure is HashTable. 
+_HashTable_ is data structure, which is based on arrays. Offers fast insertion and searching. Key values are assigned to elements in a Hash Table using a Hash function. A hash function helps calculate the best index an item should go in. 
 HashTable is thread safe and synchronized => it is slower. Works with multiple threads and does not allow null key. 
 HashMap is not thread safe and unsynchronized => it is faster. Works with single thread and we can have one key which is null.
 
 
-Map.Entry – Entry is an interface inside Map interface; we use it for entrySet() – the set of entries: key + value.
+_Map.Entry_ – Entry is an interface inside Map interface; we use it for entrySet() – the set of entries: key + value.
 
+
+_TreeSet_ - This is a set but with alphabetical/ numerical order. Again, we do not have duplicates. We have a tree:
+("https://www.cs.wcupa.edu/rkline/assets/img/DS/bst2.png?1264796754")
 
 #### More information 
 - <a href='https://en.wikipedia.org/wiki/Data_structure' target='_blank' rel='nofollow'>Wikipedia - data structures</a>
